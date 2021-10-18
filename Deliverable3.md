@@ -28,7 +28,7 @@ Arapahoe: 6.7% (24,801)
 
 -The candidate that won the election was Diana DeGette with 73.8% of the votes and with 272,892 number of votes.
 
-! [alt text] (https://github.com/lyozamp/Election_Analysis/blob/main/Election_results_screenshot.png)
+! [alt text]
 
 ## Election-Audit Summary
 This script can be used – with some modifications – for any election by providing similar data for future elections so we can again compare counties, candidates and votes. In future elections we could change the script slightly to include the 2nd and 3rd place of the county turnout to see what order each counties turnout placed and do the same for the candidates and their placement in the running. In conclusion, this script will be very beneficial when comparing future election data!
